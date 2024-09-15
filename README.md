@@ -1,5 +1,7 @@
 <img align="center" src="https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnannasif&label=Profile%20views&color=0e75b6&style=flat" alt="adnannasif" /> </p>
 
+<p align="left"> <a href="https://twitter.com/adnannasifbd" target="blank"><img src="https://img.shields.io/twitter/follow/adnannasifbd?logo=twitter&style=for-the-badge" alt="adnannasifbd" /></a> </p>
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Adnan Nasif </font></h1>
 <h3 align="center"><font face="Arial"> <a href="https://www.linkedin.com/in/adnannasif/" target="_blank" rel="noreferrer">Adnan</a> is a passionate Web Developer and Cloud Engineer from Bangladesh, working for <a href="https://www.royalgreen.net/">PaceCloud</a>  as a Cloud Executive. Who recently discovered a strong passion for DevOps. learning and exploring its principles and tools.</font></h3>
