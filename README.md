@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
