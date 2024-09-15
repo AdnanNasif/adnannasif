@@ -1,3 +1,5 @@
+<img align="center" src="https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif"/>
+
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Adnan Nasif </font></h1>
 <h3 align="center"><font face="Arial"> <a href="https://www.linkedin.com/in/adnannasif/" target="_blank" rel="noreferrer">Adnan</a> is a passionate Web Developer and Cloud Engineer from Bangladesh, working for <a href="https://www.royalgreen.net/">PaceCloud</a>  as a Cloud Executive. Who recently discovered a strong passion for DevOps. learning and exploring its principles and tools.</font></h3>
