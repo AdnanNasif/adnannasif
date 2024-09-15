@@ -1,52 +1,30 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm Adnan Nasif</h1>
+<h3 align="center">A passionate web developer and cloud engineer from Bangladesh</h3>
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Cloud Engineer** with a newfound enthusiasm for **DevOps**. My journey in technology has equipped me with a diverse skill set ranging from web development to cloud infrastructure management.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnannasif&label=Profile%20views&color=0e75b6&style=flat" alt="adnannasif" /> </p>
 
-## 🚀 About Me
+<p align="left"> <a href="https://twitter.com/adnannasifbd" target="blank"><img src="https://img.shields.io/twitter/follow/adnannasifbd?logo=twitter&style=for-the-badge" alt="adnannasifbd" /></a> </p>
 
-I specialize in creating dynamic and responsive web applications, managing cloud infrastructure, and automating processes to improve efficiency. I have a keen interest in exploring new technologies and continually expanding my skill set.
+- 🔭 I’m currently working on [Docker-Cloud](https://github.com/AdnanNasif/Cloud-docker)
 
-## 💻 Skills
+- 🌱 I’m currently learning **tailwind, bootstrap, react**
 
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap
-- **Cloud Engineering**: AWS, Azure, Google Cloud Platform
-- **DevOps**: CI/CD, Docker, Kubernetes
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Virtualization**: VMware, Proxmox
-- **Programming Languages**: Python
-- **Tools**: Git, Jenkins, Terraform, Ansible
+- 👯 I’m looking to collaborate on **Any Cloud/Web Project**
 
-## 🔧 Technologies & Tools
+- 💬 Ask me about **Cloud Computing**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-5F5F5F?style=flat&logo=proxmox&logoColor=white)
+- 📫 How to reach me **adnan.nasif29@gmail.com**
 
-## 🛠️ Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/adnannasifbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnannasifbd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adnannasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnannasif" height="30" width="40" /></a>
+<a href="https://fb.com/joseph nasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseph nasif" height="30" width="40" /></a>
+</p>
 
-- **[Project Name](URL)**: Description of your project and its features. Technologies used: [HTML, CSS, JavaScript, etc.]
-- **[Project Name](URL)**: Description of your project and its features. Technologies used: [Python, MySQL, etc.]
-- **[Project Name](URL)**: Description of your project and its features. Technologies used: [AWS, Docker, etc.]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 📈 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" /></p>
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide=issues&theme=dark)
-
-## 📫 Get in Touch
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
-Feel free to check out my repositories and connect with me. I'm always open to discussing new projects and opportunities!
-
-![Your Image](https://www.example.com/your-image.png)
-
-<!-- Replace "https://www.example.com/your-image.png" with the URL of your image -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
