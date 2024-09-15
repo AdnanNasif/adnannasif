@@ -41,12 +41,6 @@
 #### Editor / IDE I ♥
 <p align="left"><img src="https://www.cloudcomputing-news.net/wp-content/uploads/2022/02/vmware-logo.png" alt="vmware" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
 <code><a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SqziERp60lz26yppI4NMAk92_cMzIepEqA&s" height="42"></a></code></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
-
-<!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
@@ -54,5 +48,11 @@
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
+
+<!-- Contact Section -->
 
 
