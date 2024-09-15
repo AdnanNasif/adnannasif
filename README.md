@@ -51,9 +51,8 @@
 - 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
 
 <!-- Contact Section -->
 
