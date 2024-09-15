@@ -2,14 +2,10 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Adnan Nasif </font></h1>
 <h3 align="center"><font face="Arial"> <a href="https://www.linkedin.com/in/adnannasif/" target="_blank" rel="noreferrer">Adnan</a> is a passionate Web Developer and Cloud Engineer from Bangladesh, working for <a href="https://www.royalgreen.net/">PaceCloud</a>  as a Cloud Executive. Who recently discovered a strong passion for DevOps. learning and exploring its principles and tools.</font></h3>
 
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
+
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="https://cdn.pixabay.com/animation/2022/09/17/16/20/16-20-08-700_512.gif"/>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
