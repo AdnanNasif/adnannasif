@@ -45,7 +45,7 @@
 
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
-<code><a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="./assets/postman.png" height="42"></a></code></p>
+<code><a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SqziERp60lz26yppI4NMAk92_cMzIepEqA&s" height="42"></a></code></p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
