@@ -7,7 +7,7 @@
 
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdevops-engineer-animation--847380486116730317%2F&psig=AOvVaw0Aqhka9810r-8SKbwW9BO-&ust=1726476838962000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCMja_sjJxIgDFQAAAAAdAAAAABCAAQ"/>
+<img align="right" height="300" width="500" src="https://i.redd.it/1d11s820dgm91.gif"/>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
