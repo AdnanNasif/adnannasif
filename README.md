@@ -49,7 +49,7 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[adnan.nasif29@gmail.com](mailto:adnan.nasif29@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+- ⚡ Fun fact **I love playing video games**
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif"   width="480" height="450" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" width="480" height="460" /></p>
