@@ -52,7 +52,7 @@
 - ⚡ Fun fact **I love playing video games**
 
 
-  <p>&nbsp;<img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" /></p> <p><img align="right" width="400" height="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
+  <p>&nbsp;<img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif"  /> <img align="right" width="400" height="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" /></p>
 
 <!-- Contact Section -->
 
