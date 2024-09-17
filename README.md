@@ -51,7 +51,7 @@
 - 📫 How to reach me **[adnan.nasif29@gmail.com](mailto:adnan.nasif29@gmail.com)**
 - ⚡ Fun fact **I love playing video games**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" " /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" width="450" height="450  /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" width="450" height="450"  /></p>
 
 <!-- Contact Section -->
 
