@@ -51,8 +51,8 @@
 - 📫 How to reach me **[adnan.nasif29@gmail.com](mailto:adnan.nasif29@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" width="450" height="450" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" width="450" height="450" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adnannasif&show_icons=true&locale=en" alt="adnannasif" width="500" height="500" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adnannasif&" alt="adnannasif" width="500" height="500" /></p>
 
 <!-- Contact Section -->
 
